@@ -1,10 +1,3 @@
-/****************************************************************************
- *
- *   Copyright (C) 2014-2015 Fonrich. All rights reserved.
- *   Author: yong.zhang <yong.zhang@fonrich.com>
- *
- ****************************************************************************/
-
 MEMORY
 {
     flash (rx) : ORIGIN = 0x08000000, LENGTH = 27K
